@@ -1,3 +1,4 @@
+<body>
 # VAC course on Mathematics for Machine Learning
 Co-ordinators: 
 <!-- Place this tag where you want the button to render. -->
@@ -44,3 +45,4 @@ https://drive.google.com/drive/folders/13F9_wKDrSAGrp-jRCv6wRwOUz0mg54yE?usp=sha
 
 <!-- Place this tag in your head or just before your close body tag. -->
 <script async defer src="https://buttons.github.io/buttons.js"></script>
+</body>
