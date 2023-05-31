@@ -1,10 +1,13 @@
-<body>
+
 # VAC course on Mathematics for Machine Learning
 Co-ordinators: 
+
 <!-- Place this tag where you want the button to render. -->
-<a class="github-button" href="https://chennai.vit.ac.in/member/dr-velmathi-g/" >Dr. Velmathi</a>
-<a class="github-button" href="https://chennai.vit.ac.in/member/dr-a-felix/" >Dr. Felix A</a>
-<a class="github-button" href="https://chennai.vit.ac.in/member/dr-david-raj-micheal/" >Dr. David Raj Micheal</a>
+<a class="github-button" style="padding:5px; background-color:#e5e5e5; color:#000; border-radius:2px" href="https://chennai.vit.ac.in/member/dr-velmathi-g/" ><small>Dr. Velmathi</small></a>
+<a class="github-button" 
+style="padding:5px; background-color:#e5e5e5; color:#000; border-radius:2px" href="https://chennai.vit.ac.in/member/dr-a-felix/" ><small>Dr. Felix A</small></a>
+<a class="github-button" 
+style="padding:5px; background-color:#e5e5e5; color:#000; border-radius:2px" href="https://chennai.vit.ac.in/member/dr-david-raj-micheal/" ><small>Dr. David Raj Micheal</small></a>
 
 This repository contains all materials that are meant to be shared with the participants. 
 
@@ -42,7 +45,3 @@ https://drive.google.com/drive/folders/13F9_wKDrSAGrp-jRCv6wRwOUz0mg54yE?usp=sha
 | Dr. Umity   Srinivasa Rao   	| SCOPE, VIT, Chennai 	|
 | Dr. Velmathi G              	| SENSE, VIT, Chennai 	|
 
-
-<!-- Place this tag in your head or just before your close body tag. -->
-<script async defer src="https://buttons.github.io/buttons.js"></script>
-</body>
